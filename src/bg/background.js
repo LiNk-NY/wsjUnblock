@@ -46,7 +46,7 @@ const sites = {
 	bizinsider: {
 		url: "*://*.businessinsider.com/*",
 		js: [
-			"*://*.businessinsider.com/public/scripts/src/scripts/providers/content/piano/*",
+			"*://*.businessinsider.com/public/scripts/asset.pagefair.com/measure.min.js",
 		]
 	},
 	bizjournals: {
