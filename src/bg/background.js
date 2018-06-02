@@ -43,6 +43,9 @@ const sites = {
 			"*://*.bwbx.io/s3/javelin/public/javelin/js/pianola/*",
 		]
 	},
+	bizinsider: {
+		url: "*://*.businessinsider.com/*",
+	},
 	bizjournals: {
 		url: "*://*.bizjournals.com/*",
 		js: [
