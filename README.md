@@ -9,6 +9,7 @@
 *   [New York Times](https://www.nytimes.com/)
 *   [Financial Times](https://www.ft.com/)
 *   [Bloomberg](https://www.bloomberg.com/)
+*   [BusinessInsider](https://www.businessinsider.com/)
 *   [Washington Post](https://www.washingtonpost.com)
 *   [Business Journals](https://www.bizjournals.com/)
 *   [Philly.com](https://www.philly.com/)
